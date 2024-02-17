@@ -1,0 +1,1 @@
+"python.exe" "C:\Users\User\Documents\GitHub\urmother\open_files_folders.py"
