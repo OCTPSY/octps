@@ -2340,7 +2340,7 @@ def car_library_match_with_exception_handle( args ):
         lg.log_exception( f"""multiprocess_error_{ops_identifier}""", f"""ERROR!!! -- {str( exception )}""" )
 
 
-def mobee_car_library_matching_v1(
+def car_library_matching_v1(
          country
         , db_folderpath
         , sql_script_folder
@@ -3291,7 +3291,7 @@ def mobee_car_library_matching_v1(
                     lg.log_exception( exception )
 
 
-def mobee_compile_matched_scraping_v0(
+def compile_matched_scraping_v0(
          country_list
         , car_library_folder
         , sql_script_folder
